@@ -14,7 +14,7 @@ O vídeo do projeto[^2] pode ser assistido via YouTube: [https://www.youtube.com
 Neste vídeo, as quarto primeiras versões do projeto são apresentadas/demonstradas.
 
 ## Artigo Científico (preprint)
-Nosso artigo, redigido após nossas implementações e testes, pode ser acessado aqui: [Aplicação de uma rede perceptron no jogo Pong](artigo.pdf).
+Nosso artigo, redigido após nossas implementações e testes, pode ser acessado aqui: [Aplicação de uma rede perceptron no jogo Pong](https://github.com/orlandosaraivajr/Pong/blob/main/artigo.pdf).
 
 ## Como replicar
 
